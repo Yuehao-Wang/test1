@@ -1,2 +1,3 @@
 My favorite book is Harry Potter.
 server：I worte the second row.
+server: server has more power than client
